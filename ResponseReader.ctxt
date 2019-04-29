@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ResponseReader
+comment0.text=\n\ Read\ the\ Commands.\ \n\ \n\ @author\ Akash\ Darji\n\ @version\ Apr\ 29,\ 2019\n
+comment1.params=
+comment1.target=ResponseReader()
+comment2.params=
+comment2.target=java.util.List\ readDefaultResponses()
+comment2.text=\n\ @return\ The\ list\ of\ responses.\n
+comment3.params=
+comment3.target=java.util.Map\ readMainResponses()
+comment3.text=\ \ \ \n\ @return\ A\ map\ of\ key/response\ pairs.\n
+comment4.params=map\ filename
+comment4.target=void\ writeMap(java.util.HashMap,\ java.lang.String)
+comment4.text=\n\ \ \ \n\ @param\ map\ The\ map\ to\ be\ written.\n\ @param\ filename\ The\ file\ to\ write.\n
+numComments=5
